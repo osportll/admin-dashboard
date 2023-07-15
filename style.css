@@ -227,6 +227,7 @@ div.search-bar input:focus {
 
 .header-buttons button:active {
   background-color: #126794;
+  border: 1px solid #126794;
 }
 
 .main-content {
