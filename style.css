@@ -422,3 +422,31 @@ hr {
 .side-h:hover {
   cursor: pointer;
 }
+
+.github-info {
+  align-self: end;
+  justify-self: center;
+  margin-bottom: 20px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.github-icon {
+  max-height: 19px;
+  align-self: center;
+}
+
+.github-info a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-self: center;
+  padding: 5px;
+  gap: 3px;
+}
+
+.github-info a:hover {
+  color: #d1d0d0;
+}
