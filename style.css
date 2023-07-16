@@ -416,3 +416,9 @@ hr {
   font-size: 0.88rem;
   color: #636363;
 }
+
+.user-img:hover,
+.side-username:hover,
+.side-h:hover {
+  cursor: pointer;
+}
