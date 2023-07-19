@@ -1,6 +1,6 @@
 # Admin-Dashboard
 
-A simple Dashboard model webpage.
+A simple Dashboard model webpage to practice CSS Grids.
 
 [Live Preview](https://osportll.github.io/admin-dashboard/)
 
